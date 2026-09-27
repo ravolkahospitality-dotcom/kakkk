@@ -1,0 +1,6 @@
+{
+  "name": "Ravolka Music AI",
+  "description": "Create something you can feel. Turn an idea, a story, or a feeling into a song with Google Lyria 3.5 AI music generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
